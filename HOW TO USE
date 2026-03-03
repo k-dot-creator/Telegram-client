@@ -1,0 +1,2 @@
+pip install telethon colorama python-dotenv prompt_toolkit
+python main.py
