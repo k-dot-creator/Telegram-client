@@ -1,9 +1,4 @@
-# Core requirements - minimum needed
-telethon>=1.37.0
-colorama>=0.4.6
-python-dotenv>=1.0.0
-prompt_toolkit>=3.0.43
-
-# Optional - remove if you don't need voice
-# sounddevice>=0.4.6
-# numpy>=1.24.0
+telethon
+colorama
+python-dotenv
+prompt_toolkit
